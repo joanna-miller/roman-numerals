@@ -23,6 +23,12 @@ _{This is a template for setting up a development environment.  This is also a t
 * _$ npm install_
 * _$ npm run build_
 
+### To Utilize API
+
+* _Create a .env file in your root directory_
+* _{Instructions for getting API key}_
+* _Store your API key in your .env file in the following format: <br> API_KEY=[enter key here with no brackets]_
+
 ## Known Bugs
 
 * _{Any known issues}_
@@ -38,4 +44,4 @@ _{This is a template for setting up a development environment.  This is also a t
 
 ## Contact Information
 
-_Jo Miller: joannamiller@gmail.com_
+_Jo Miller: joannadawnmiller@gmail.com_
