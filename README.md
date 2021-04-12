@@ -1,20 +1,18 @@
-# _{Template}_
+# _Roman Numeral Converter_
 
-#### _{Environment Template}_
+#### _Convert numbers into Roman Numerals_
 
-#### By _**Jo Miller**_
+#### By _**Jo Miller & Jeroen van Seeters**_
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
 * _JavaScript_
 * _Jest_
 * _webpack_
 
 ## Description
 
-_{This is a template for setting up a development environment.  This is also a template README.}_
+_An exercise in recursive functions to translate a given number into the corresponding roman numerals._
 
 ## Setup/Installation Requirements
 
@@ -23,21 +21,6 @@ _{This is a template for setting up a development environment.  This is also a t
 * `$ npm install`
 * `$ npm run build`
 
-### To Utilize API
-
-* _Create a .env file in your root directory_
-* _{Instructions for getting API key}_
-* _Store your API key in your .env file in the following format: <br> API_KEY=[enter key here with no brackets]_
-
-## Known Bugs
-
-* _{Any known issues}_
-* _{should go here}_
-
-## Specifications
-```
-```
-
 ## License
 
 [MIT](LICENSE.txt)
@@ -45,3 +28,4 @@ _{This is a template for setting up a development environment.  This is also a t
 ## Contact Information
 
 _Jo Miller: joannadawnmiller@gmail.com_
+_Jeroen van Seeters: vanseetersjeroen@gmail.com_
