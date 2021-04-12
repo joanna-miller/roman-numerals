@@ -56,3 +56,7 @@ test('should return CM for a value of 900', () => {
 test('should return M for a value of 1000', () => {
   expect(roman(1000)).toEqual('M');
 });
+
+test('should return MMMCMXCIX for a value of 3999', () => {
+  expect(roman(3999)).toEqual('MMMCMXCIX');
+});
