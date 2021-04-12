@@ -52,3 +52,7 @@ test('should return D for a value of 500', () => {
 test('should return CM for a value of 900', () => {
   expect(roman(900)).toEqual('CM');
 });
+
+test('should return M for a value of 1000', () => {
+  expect(roman(1000)).toEqual('M');
+});
