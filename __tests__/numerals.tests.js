@@ -48,3 +48,7 @@ test('should return CD for a value of 400', () => {
 test('should return D for a value of 500', () => {
   expect(roman(500)).toEqual('D');
 });
+
+test('should return CM for a value of 900', () => {
+  expect(roman(900)).toEqual('CM');
+});
