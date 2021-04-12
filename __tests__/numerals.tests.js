@@ -25,3 +25,9 @@ test('should return X for a value of 10', () => {
   expect(roman(10)).toEqual('X');
 });
 
+test('should return XL for a value of 40', () => {
+  expect(roman(40)).toEqual('XL');
+});
+
+
+
