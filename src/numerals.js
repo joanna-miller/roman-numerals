@@ -1,5 +1,5 @@
 const roman = (number) => {
-  const romanNumerals = [[40, 'XL'], [10, 'X'], [9, 'IX'], [5, 'V'], [4, 'IV'], [1, 'I']];
+  const romanNumerals = [[50, 'L'], [40, 'XL'], [10, 'X'], [9, 'IX'], [5, 'V'], [4, 'IV'], [1, 'I']];
   if (number === 0) {
     return "";
   } else {
