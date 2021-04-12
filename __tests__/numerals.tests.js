@@ -33,3 +33,6 @@ test('should return L for a value of 50', () => {
   expect(roman(50)).toEqual('L');
 });
 
+test('should return XC for a value of 90', () => {
+  expect(roman(90)).toEqual('XC');
+});
