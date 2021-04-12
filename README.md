@@ -18,10 +18,10 @@ _{This is a template for setting up a development environment.  This is also a t
 
 ## Setup/Installation Requirements
 
-* _Clone this repository to your desktop_
-* _Navigate to top level of the directory_
-* _$ npm install_
-* _$ npm run build_
+* Clone this repository to your desktop
+* Navigate to top level of the directory
+* `$ npm install`
+* `$ npm run build`
 
 ### To Utilize API
 
